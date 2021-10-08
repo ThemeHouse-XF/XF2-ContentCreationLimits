@@ -1,0 +1,23 @@
+{
+    "XF-Service-Conversation-Creator_ThemeHouse-ContentCreationLimits-XF-Service-Conversation-Creator.json": {
+        "hash": "6a5cd4451f9f350d279095ad607ef182"
+    },
+    "XF-Service-Conversation-Replier_ThemeHouse-ContentCreationLimits-XF-Service-Conversation-Replier.json": {
+        "hash": "56882bf679b1c3593aace6d7936a439c"
+    },
+    "XF-Service-Thread-Creator_ThemeHouse-ContentCreationLimits-XF-Service-Thread-Creator.json": {
+        "hash": "9027f7f68f0922a38776befda2d9570b"
+    },
+    "XF-Service-Thread-Replier_ThemeHouse-ContentCreationLimits-XF-Service-Thread-Replier.json": {
+        "hash": "25c491d0c84c7afddcf8b9b25b8aee35"
+    },
+    "XFMG-Service-Album-Creator_ThemeHouse-ContentCreationLimits-XFMG-Service-Album-Creator.json": {
+        "hash": "1f2f3fc5e8a062b14fbf13b399d3e5a8"
+    },
+    "XFMG-Service-Media-Creator_ThemeHouse-ContentCreationLimits-XFMG-Service-Media-Creator.json": {
+        "hash": "5b0d4895521713f6d92d09ff2c4ff256"
+    },
+    "XFRM-Service-ResourceItem-Create_ThemeHouse-ContentCreationLimits-XFRM-Service-ResourceItem-Create.json": {
+        "hash": "b30443d0456a614dcc0cfd9a355dead4"
+    }
+}

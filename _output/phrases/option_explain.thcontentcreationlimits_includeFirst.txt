@@ -1,0 +1,1 @@
+If enabled, initial content will count into their respective content type limit (for example the first post of a thread will count towards the new post limit).

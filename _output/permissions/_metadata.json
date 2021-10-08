@@ -1,0 +1,56 @@
+{
+    "conversation-thccl_cMessageLimit.json": {
+        "hash": "65c97cce91c6199a81d2ea1561f0d1cc"
+    },
+    "conversation-thccl_cMessageTime.json": {
+        "hash": "b1092e0b7a7881179c3bff6fd0503adc"
+    },
+    "conversation-thccl_conversationLimit.json": {
+        "hash": "30ed98295301156363cbb20765baebd9"
+    },
+    "conversation-thccl_conversationTime.json": {
+        "hash": "c4def59eea4b758be19e14f2703f994d"
+    },
+    "forum-thcc_forumPostLimit.json": {
+        "hash": "420d66d11a741fede938ecea9b1980ac"
+    },
+    "forum-thcc_forumPostTime.json": {
+        "hash": "d4aa36932ddf539bb72f22ce68ef502b"
+    },
+    "forum-thcc_forumThreadLimit.json": {
+        "hash": "51838e5b57dbcff61e5d624b4e689d4e"
+    },
+    "forum-thcc_forumThreadTime.json": {
+        "hash": "fa552cc9cd76500f3c79f14d18dad013"
+    },
+    "forum-thcc_totalPostLimit.json": {
+        "hash": "51f8c1d6e11169fc140f97d9b3270ee6"
+    },
+    "forum-thcc_totalPostTime.json": {
+        "hash": "71a6f9d0d9da1aa96168ef38fe015e0f"
+    },
+    "forum-thccl_totalThreadLimit.json": {
+        "hash": "dfd4df1a73ef42a2c6f324df8e23f77c"
+    },
+    "forum-thccl_totalThreadTime.json": {
+        "hash": "4f0a5a5f6e041bab906277145fee4815"
+    },
+    "resource-thccl_resourceLimit.json": {
+        "hash": "8c83a0c5c0e9e807ed860dfefcbc8bc8"
+    },
+    "resource-thccl_resourceTime.json": {
+        "hash": "4c1616f07eb27b5ad4f3caf7a7622262"
+    },
+    "xfmg-thccl_albumLimit.json": {
+        "hash": "b8306c87ac11a4e68c3e1b738708f355"
+    },
+    "xfmg-thccl_albumTime.json": {
+        "hash": "8b9d92f534a67ca193b3b268e15ccd27"
+    },
+    "xfmg-thccl_mediaLimit.json": {
+        "hash": "9234e4640ee762d9a958b7fab8fed1d4"
+    },
+    "xfmg-thccl_mediaTime.json": {
+        "hash": "07f2dc848061ba71bea55a6c051c51b6"
+    }
+}

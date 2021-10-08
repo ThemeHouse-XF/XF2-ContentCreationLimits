@@ -1,0 +1,1 @@
+You may only create {messages} replies to conversations within {hours} hours.

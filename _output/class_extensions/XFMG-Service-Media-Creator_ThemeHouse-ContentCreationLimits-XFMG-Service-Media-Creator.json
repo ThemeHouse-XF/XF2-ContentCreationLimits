@@ -1,0 +1,6 @@
+{
+    "from_class": "XFMG\\Service\\Media\\Creator",
+    "to_class": "ThemeHouse\\ContentCreationLimits\\XFMG\\Service\\Media\\Creator",
+    "execute_order": 10,
+    "active": true
+}

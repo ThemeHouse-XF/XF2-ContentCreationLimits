@@ -1,0 +1,1 @@
+You may only create {posts} new posts in the forum {forum}.

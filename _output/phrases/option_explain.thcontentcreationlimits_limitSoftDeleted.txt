@@ -1,0 +1,1 @@
+If enabled, soft deleted content will count towards the creation limit of new content.
